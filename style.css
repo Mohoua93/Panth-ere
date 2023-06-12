@@ -666,7 +666,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -1064,4 +1064,9 @@ p.text-presentation-3 {
     font-size: 15px;
     color: grey;
     font-weight: bold;
+}
+
+.logonavbar{
+    width: auto;
+    height: 45pxs;
 }
